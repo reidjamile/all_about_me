@@ -1,0 +1,27 @@
+nav {
+    background-color:#000;
+    color:#fff;
+}
+
+
+.jamilepic {
+    width: 100px;
+
+}
+
+ul.navv {
+    display: flex;
+}
+
+#lists {
+    display:inline-flex;
+}
+
+ul {
+    display:flex;
+}
+
+main {
+    text-align: center;
+    background: #afaaf9;
+}
